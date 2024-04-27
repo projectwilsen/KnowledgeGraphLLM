@@ -1,0 +1,34 @@
+[{"head": "Tim Cook","head_type": "person","relation": "worksFor","tail": "Apple","tail_type": "company"},
+{"head": "He", "head_type": "person", "relation": "led", "tail": "inventory reduction measures", "tail_type": "characteristic"}, #he
+{"head": "He", "head_type": "person", "relation": "led", "tail": "long-term investments in flash memory", "tail_type": "characteristic"}, #he
+{"head": "iPod Nano", "head_type": "product", "relation": "isProducedBy", "tail": "Apple", "tail_type": "company"},
+{"head": "iPhone", "head_type": "product", "relation": "isProducedBy", "tail": "Apple", "tail_type": "company"},
+{"head": "iPad", "head_type": "product", "relation": "isProducedBy", "tail": "Apple", "tail_type": "company"},
+{"head": "iPod Nano", "head_type": "product", "relation": "isProducedBy", "tail": "Apple", "tail_type": "company"},
+{"head": "Cook", "head_type": "person", "relation": "alumniOf", "tail": "Auburn University", "tail_type": "school"}, #Cook
+{"head": "Cook", "head_type": "person", "relation": "alumniOf", "tail": "Duke University", "tail_type": "school"}, #Cook
+{"head": "Cook", "head_type": "person", "relation": "hasAward", "tail": "Financial Times Person of the Year", "tail_type": "award"}, #Cook
+{"head": "Cook", "head_type": "person", "relation": "hasAward", "tail": "Ripple of Change Award", "tail_type": "award"}, #Cook
+{"head": "Cook", "head_type": "person", "relation": "hasAward", "tail": "Fortune's World's Greatest Leader", "tail_type": "award"}, #Cook
+{"head": "Apple", "head_type": "company", "relation": "isFoundedBy", "tail": "Steve Wozniak", "tail_type": "person"}, 
+{"head": "Apple", "head_type": "company", "relation": "isFoundedBy", "tail": "Steve Jobs", "tail_type": "person"},
+{"head": "Apple I", "head_type": "product", "relation": "isProducedBy", "tail": "Apple", "tail_type": "company"},
+{"head": "Apple II", "head_type": "product", "relation": "isProducedBy", "tail": "Apple", "tail_type": "company"},
+{"head": "Lisa", "head_type": "product", "relation": "isProducedBy", "tail": "Apple", "tail_type": "company"},
+{"head": "Macintosh", "head_type": "product", "relation": "isProducedBy", "tail": "Apple", "tail_type": "company"}, 
+{"head": "Steve Jobs", "head_type": "person", "relation": "worksFor", "tail": "Apple", "tail_type": "company"}, 
+{"head": "Steve Jobs", "head_type": "person", "relation": "left", "tail": "Apple", "tail_type": "company"}, 
+{"head": "Apple", "head_type": "company", "relation": "acquired", "tail": "NeXT", "tail_type": "company"}, 
+{"head": "NeXT", "head_type": "company", "relation": "hasTechnology", "tail": "technology", "tail_type": "characteristic"}, #operating system
+{"head": "Macintosh", "head_type": "product", "relation": "hasCharacteristic", "tail": "graphical user interface-based system", "tail_type": "characteristic"},
+{"head": "Apple", "head_type": "company", "relation": "collaboratedWith", "tail": "Cingular", "tail_type": "company"}, #collaborated gada
+{"head": "iPhone", "head_type": "product", "relation": "hasCharacteristic", "tail": "multi-touch technology", "tail_type": "characteristic"}, 
+{"head": "iPhone", "head_type": "product", "relation": "hasCharacteristic", "tail": "Touch ID", "tail_type": "characteristic"}, 
+{"head": "iPhone", "head_type": "product", "relation": "hasCharacteristic", "tail": "Face ID", "tail_type": "characteristic"},
+{"head": "Apple", "head_type": "company", "relation": "operates", "tail": "App Store", "tail_type": "product"}, #collaborated gada
+{"head": "Apple", "head_type": "company", "relation": "acquired", "tail": "Placebase", "tail_type": "company"},
+{"head": "Apple", "head_type": "company", "relation": "hasProject", "tail": "Apple Maps", "tail_type": "product"},
+{"head": "Apple", "head_type": "company", "relation": "hasProject", "tail": "Project Titan", "tail_type": "project"}, 
+{"head": "Project Titan", "head_type": "project", "relation": "hasCharacteristic", "tail": "electric and self-driving car technology", "tail_type": "characteristic"},
+{"head": "Apple","head_type": "company","relation": "hasCharacteristic","tail": "trailblazing technology company","tail_type": "characteristic"},
+{"head": "Apple","head_type": "company","relation": "hasCharacteristic","tail": "first US company valued over $3 trillion","tail_type": "characteristic"}]
